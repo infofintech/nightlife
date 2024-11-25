@@ -1,4 +1,14 @@
 {
+    "Emma Stone":
+    {
+        "height": 1.68, "weight": 52,
+        "sizes": "86-61-84", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "November 6, 1988",
+        "language": {
+            "RU": { "title": "Эмма Стоун" }
+        }
+    },
     "Zermatt Matterhorn":
     {
         "country": "CH", "insignia": "Louvre",
@@ -49,6 +59,32 @@
             {
                 "title": "Всемирное хранилище",
                 "memoir": "Хранилище семян было открыто 26 февраля 2008 года в присутствии премьер-министра Норвегии Йенса Столтенберга, президента Европейского Союза Жозе Мануэля Баррозу, генерального директора Продовольственной и сельскохозяйственной организации (ФАО) ООН Жака Диуф и лауреат Нобелевской премии мира Вангари Маатаи."
+            }
+        }
+    },
+    "Scientology":
+    {
+        "country": "US", "insignia": "Compass",
+        "memoir": "Scientology is a set of beliefs and practices invented by the American author L. Ron Hubbard, and an associated movement. It is variously defined as a cult, a business, a religion, or a scam. Hubbard initially developed a set of ideas that he called Dianetics, which he represented as a form of therapy. An organization that he established in 1950 to promote it went bankrupt, and Hubbard lost the rights to his book Dianetics in 1952. He then recharacterized his ideas as a religion, likely for tax purposes, and renamed them Scientology. By 1954, he had regained the rights to Dianetics and founded the Church of Scientology, which remains the largest organization promoting Scientology. There are practitioners independent of the Church, in what is referred to as the Free Zone. Estimates put the number of Scientologists at under 40,000 worldwide.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Сайентология",
+                "memoir": "Саентология - международное движение, часто характеризуемое как новое религиозное движение гностического типа. Основано в начале 1950-х годов в США, строится на работах американского писателя-фантаста Лафайета Рональда Хаббарда (1911-1986); система верований и практик исходит из представления о том, что человек является духовным существом, живущим не одну жизнь. Количество последователей, по оценке независимых исследований и заявлениям Церкви саентологии, колеблется от десятков тысяч до 10 миллионов, среди них есть известные деятели культуры."
+            }
+        }
+    },
+    "Victorious":
+    {
+        "country": "US", "insignia": "Guitar",
+        "memoir": "Victorious is an American sitcom created by Dan Schneider that originally aired on Nickelodeon, debuting on March 27, 2010, and concluding on February 2, 2013 after four seasons. The series revolves around aspiring singer Tori Vega (portrayed by Victoria Justice), a teenager who attends a performing arts high school called Hollywood Arts High School, after taking her older sister Trina's (Daniella Monet) place in a showcase while getting into screwball situations on a daily basis. On her first day at Hollywood Arts, she meets Andre Harris (Leon Thomas III), Robbie Shapiro (Matt Bennett), Rex Powers (Robbie's puppet), Jade West (Elizabeth Gillies), Cat Valentine (Ariana Grande), and Beck Oliver (Avan Jogia).",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Виктория-победительница",
+                "memoir": "Виктория-победительница - американский ситком, созданный Дэном Шнайдером, который выходил на канале Nickelodeon с 27 марта 2010 года по 2 февраля 2013 года. Действие телесериала разворачивается вокруг начинающей молодой певицы Тори Вега (Виктория Джастис), поступившей в школу искусств «Hollywood Arts High School» в Лос-Анджелесе, после того, как ей пришлось подменить старшую сестру Трину (Даниэлла Моне) на выступлении. Каждый день она попадает в разные смешные истории. В свой первый день в школе, она знакомится с Андрэ Харрисом (Леон Томас III), Робби Шапиро (Мэтт Беннетт), Рексом Пауэрсом (кукла Робби), Джейд Вест (Элизабет Гиллис), Кэт Валентайн (Ариана Гранде) и Бэком Оливером (Эван Джогиа)."
             }
         }
     }
