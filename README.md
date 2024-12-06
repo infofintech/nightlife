@@ -1,9 +1,9 @@
-# Eurohouse Night Life Collection
+# Night Life Wallpaper Collection
 
 A premium quality, aesthetic wallpapers for every moment of your life.
 
 "Elegance is the only beauty that never fades." - Audrey Hepburn
 
-![Collage](https://github.com/eurohouse/oneiros/blob/main/oneiros.collage.png?raw=true)
+![Collage](https://github.com/infofintech/nightlife/blob/main/nightlife.collage.png?raw=true)
 
 The wallpaper collection contains only high-quality, realistic 4K UHD images with warm color palette. This collection is being introduced with wallpapers from all around the world. The whole background collection is introduced with various photos of places from all around the world made in warm, bright, vivid color palette.
