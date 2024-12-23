@@ -62,6 +62,20 @@
             }
         }
     },
+    "Hollywood":
+    {
+        "country": "US", "insignia": "Cinema",
+        "maison": "https://www.hollywood.com",
+        "memoir": "In 1908 one of the first storytelling movies, The Count of Monte Cristo, was completed in Hollywood after its filming had begun in Chicago. In 1911 a site on Sunset Boulevard was turned into Hollywood’s first studio, and soon about 20 companies were producing films in the area. In 1913 Cecil B. DeMille, Jesse Lasky, Arthur Freed, and Samuel Goldwyn formed Jesse Lasky Feature Play Company (later Paramount Pictures). DeMille produced The Squaw Man in a barn one block from present-day Hollywood Boulevard and Vine Street, and more box-office successes soon followed. Hollywood had become the centre of the American film industry by 1915 as more independent filmmakers relocated there from the East Coast. For more than three decades, from early silent films through the advent of “talkies,” figures such as D.W. Griffith, Goldwyn, Adolph Zukor, William Fox, Louis B. Mayer, Darryl F. Zanuck, and Harry Cohn served as overlords of the great film studios—Twentieth Century-Fox, Metro-Goldwyn-Mayer, Paramount Pictures, Columbia Pictures, Warner Brothers, and others. Among the writers who were fascinated by Hollywood in its “golden age” were F. Scott Fitzgerald, Aldous Huxley, Evelyn Waugh, and Nathanael West.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Голливуд",
+                "memoir": "В 1908 году один из первых фильмов-рассказов, «Граф Монте-Кристо», был завершен в Голливуде после того, как его съемки начались в Чикаго. В 1911 году участок на бульваре Сансет был превращен в первую студию Голливуда, и вскоре около 20 компаний снимали фильмы в этом районе. В 1913 году Сесил Б. Демилль, Джесси Ласки, Артур Фрид и Сэмюэл Голдвин основали Jesse Lasky Feature Play Company (позже Paramount Pictures). Демилль снял «Человека-скво» в амбаре в одном квартале от современных Голливудского бульвара и Вайн-стрит, и вскоре последовали новые кассовые успехи. К 1915 году Голливуд стал центром американской киноиндустрии, поскольку все больше независимых режиссеров переезжали туда с Восточного побережья. На протяжении более трех десятилетий, от ранних немых фильмов до появления «разговорного кино», такие деятели, как Д. У. Гриффит, Голдвин, Адольф Цукор, Уильям Фокс, Луис Б. Майер, Даррил Ф. Занук и Гарри Кон были повелителями великих киностудий — Twentieth Century-Fox, Metro-Goldwyn-Mayer, Paramount Pictures, Columbia Pictures, Warner Brothers и других. Среди писателей, которые были очарованы Голливудом в его «золотой век», были Ф. Скотт Фицджеральд, Олдос Хаксли, Ивлин Во и Натанаэль Уэст."
+            }
+        }
+    },
     "Scientology":
     {
         "country": "US", "insignia": "Compass",
