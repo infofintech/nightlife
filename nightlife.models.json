@@ -1,6 +1,5 @@
 {
-    "Emma Stone":
-    {
+    "Emma Stone": {
         "height": 1.68, "weight": 52,
         "sizes": "86-61-84", "nsfw": "true",
         "shoe_size": 8, "country": "US",
@@ -9,94 +8,94 @@
             "RU": { "title": "Эмма Стоун" }
         }
     },
-    "Zermatt Matterhorn":
-    {
+    "Zermatt Matterhorn": {
         "country": "CH", "insignia": "Louvre",
         "maison": "https://www.zermatt.ch/en/matterhorn",
         "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Церматт Маттерхорн",
                 "memoir": "Над захватывающей альпийской панорамой нависает величественный Маттерхорн высотой 4478 метров, также называемый «жемчужиной Швейцарских Альп» и, безусловно, самой известной горой в Европе. Эта достопримечательность Швейцарии находится на границе западного швейцарского кантона Вале между Церматтом и итальянским курортом Брей-Червиния и предлагает рай для всех любителей природы, ищущих тишины и покоя."
             }
         }
     },
-    "Sunset in Paris":
-    {
+    "Griffith Observatory": {
+        "country": "US", "insignia": "Capitol",
+        "maison": "https://griffithobservatory.org",
+        "memoir": "The inspiration for the Observatory and for Griffith Park came from Griffith J. Griffith who was the benefactor for both. The idea of a “public observatory” was a very new one at the turn of the 20th century, but Griffith developed very precise specifications regarding what should be included in the building. From 1935-2002, the Observatory provided southern Californians and visitors from around the world with chances to observe, to learn, and to be inspired. Griffith’s vision for the building was updated and enhanced when the Observatory was renovated and expanded from 2002-2006. Since reopening after renovation, the Observatory has reached increasingly larger audiences, both in-person, online, and through media and film. In 2020, the Observatory celebrated its 85th anniversary.",
+        "language": {
+            "RU": {
+                "title": "Обсерватория Гриффита",
+                "memoir": "Вдохновение для обсерватории и парка Гриффит пришло от Гриффита Дж. Гриффита, который был благотворителем для обоих. Идея «общественной обсерватории» была очень новой на рубеже 20-го века, но Гриффит разработал очень точные спецификации относительно того, что должно быть включено в здание. С 1935 по 2002 год обсерватория предоставляла жителям Южной Калифорнии и гостям со всего мира возможность наблюдать, учиться и вдохновляться. Видение Гриффита относительно здания было обновлено и улучшено, когда обсерватория была отремонтирована и расширена в 2002-2006 годах. С момента повторного открытия после реконструкции обсерватория охватывала все большую аудиторию как лично, так и онлайн, а также через СМИ и кино. В 2020 году обсерватория отпраздновала свое 85-летие."
+            }
+        }
+    },
+    "La La Land": {
+        "country": "US", "insignia": "EiffelTower",
+        "memoir": "While stuck in Los Angeles traffic, Sebastian \"Seb\" Wilder has a moment of road rage directed at aspiring actress Mia Dolan. After a hard day at work, Mia's next audition goes awry because the casting director takes a phone call during an emotional scene. That night, her roommates take her to a lavish party in the Hollywood Hills, promising her that someone in the crowd could jump-start her career. After her car is towed, she walks home in disappointment.",
+        "language": {
+            "RU": {
+                "title": "Ла-Ла Лэнд",
+                "memoir": "Застряв в пробке в Лос-Анджелесе, Себастьян «Себ» Уайлдер впадает в ярость на дороге, направленную на начинающую актрису Мию Долан. После тяжелого рабочего дня очередное прослушивание Мии идет наперекосяк, потому что кастинг-директор отвечает на телефонный звонок во время эмоциональной сцены. Тем же вечером ее соседи по комнате отвозят ее на роскошную вечеринку в Голливуд-Хиллз, обещая, что кто-то из толпы может дать толчок ее карьере. После того, как ее машину отбуксировали, она возвращается домой разочарованной."
+            }
+        }
+    },
+    "Sunset in Paris": {
         "country": "FR", "insignia": "EiffelTower",
         "memoir": "Paris is a top destination for tourists from all over the world throughout the year. Known as the City of Light, the capital offers exceptional views at any time of the day. Nightfall is a unique moment when the flamboyant colours invite us to dream.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Закаты Парижа",
                 "memoir": "Париж – популярное направление для туристов со всего мира круглый год. Столица, известная как Город Света, предлагает исключительные виды в любое время суток. Сумерки — это уникальный момент, когда яркие цвета приглашают нас помечтать."
             }
         }
     },
-    "Zentralen Ostalpen":
-    {
+    "Zentralen Ostalpen": {
         "country": "AT", "insignia": "OrientExpress",
         "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Центрально-Восточные Альпы",
                 "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
             }
         }
     },
-    "Global Seed Vault":
-    {
+    "Global Seed Vault": {
         "country": "NO", "insignia": "RoyalDutchShell",
         "memoir": "The Seed Vault was opened 26 February 2008 in the presence of the Prime Minister of Norway, Jens Stoltenberg, the President of the European Union, José Manuel Barroso, Director-General of the Food and Agriculture Organization (FAO) of the United Nations, Jacques Diouf, and Nobel Peace Prize laureate, Wangari Maathai.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Всемирное хранилище",
                 "memoir": "Хранилище семян было открыто 26 февраля 2008 года в присутствии премьер-министра Норвегии Йенса Столтенберга, президента Европейского Союза Жозе Мануэля Баррозу, генерального директора Продовольственной и сельскохозяйственной организации (ФАО) ООН Жака Диуф и лауреат Нобелевской премии мира Вангари Маатаи."
             }
         }
     },
-    "Hollywood":
-    {
+    "Hollywood": {
         "country": "US", "insignia": "Cinema",
         "maison": "https://www.hollywood.com",
         "memoir": "In 1908 one of the first storytelling movies, The Count of Monte Cristo, was completed in Hollywood after its filming had begun in Chicago. In 1911 a site on Sunset Boulevard was turned into Hollywood’s first studio, and soon about 20 companies were producing films in the area. In 1913 Cecil B. DeMille, Jesse Lasky, Arthur Freed, and Samuel Goldwyn formed Jesse Lasky Feature Play Company (later Paramount Pictures). DeMille produced The Squaw Man in a barn one block from present-day Hollywood Boulevard and Vine Street, and more box-office successes soon followed. Hollywood had become the centre of the American film industry by 1915 as more independent filmmakers relocated there from the East Coast. For more than three decades, from early silent films through the advent of “talkies,” figures such as D.W. Griffith, Goldwyn, Adolph Zukor, William Fox, Louis B. Mayer, Darryl F. Zanuck, and Harry Cohn served as overlords of the great film studios—Twentieth Century-Fox, Metro-Goldwyn-Mayer, Paramount Pictures, Columbia Pictures, Warner Brothers, and others. Among the writers who were fascinated by Hollywood in its “golden age” were F. Scott Fitzgerald, Aldous Huxley, Evelyn Waugh, and Nathanael West.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Голливуд",
                 "memoir": "В 1908 году один из первых фильмов-рассказов, «Граф Монте-Кристо», был завершен в Голливуде после того, как его съемки начались в Чикаго. В 1911 году участок на бульваре Сансет был превращен в первую студию Голливуда, и вскоре около 20 компаний снимали фильмы в этом районе. В 1913 году Сесил Б. Демилль, Джесси Ласки, Артур Фрид и Сэмюэл Голдвин основали Jesse Lasky Feature Play Company (позже Paramount Pictures). Демилль снял «Человека-скво» в амбаре в одном квартале от современных Голливудского бульвара и Вайн-стрит, и вскоре последовали новые кассовые успехи. К 1915 году Голливуд стал центром американской киноиндустрии, поскольку все больше независимых режиссеров переезжали туда с Восточного побережья. На протяжении более трех десятилетий, от ранних немых фильмов до появления «разговорного кино», такие деятели, как Д. У. Гриффит, Голдвин, Адольф Цукор, Уильям Фокс, Луис Б. Майер, Даррил Ф. Занук и Гарри Кон были повелителями великих киностудий — Twentieth Century-Fox, Metro-Goldwyn-Mayer, Paramount Pictures, Columbia Pictures, Warner Brothers и других. Среди писателей, которые были очарованы Голливудом в его «золотой век», были Ф. Скотт Фицджеральд, Олдос Хаксли, Ивлин Во и Натанаэль Уэст."
             }
         }
     },
-    "Scientology":
-    {
+    "Scientology": {
         "country": "US", "insignia": "Compass",
         "memoir": "Scientology is a set of beliefs and practices invented by the American author L. Ron Hubbard, and an associated movement. It is variously defined as a cult, a business, a religion, or a scam. Hubbard initially developed a set of ideas that he called Dianetics, which he represented as a form of therapy. An organization that he established in 1950 to promote it went bankrupt, and Hubbard lost the rights to his book Dianetics in 1952. He then recharacterized his ideas as a religion, likely for tax purposes, and renamed them Scientology. By 1954, he had regained the rights to Dianetics and founded the Church of Scientology, which remains the largest organization promoting Scientology. There are practitioners independent of the Church, in what is referred to as the Free Zone. Estimates put the number of Scientologists at under 40,000 worldwide.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Сайентология",
                 "memoir": "Саентология - международное движение, часто характеризуемое как новое религиозное движение гностического типа. Основано в начале 1950-х годов в США, строится на работах американского писателя-фантаста Лафайета Рональда Хаббарда (1911-1986); система верований и практик исходит из представления о том, что человек является духовным существом, живущим не одну жизнь. Количество последователей, по оценке независимых исследований и заявлениям Церкви саентологии, колеблется от десятков тысяч до 10 миллионов, среди них есть известные деятели культуры."
             }
         }
     },
-    "Victorious":
-    {
+    "Victorious": {
         "country": "US", "insignia": "Guitar",
         "memoir": "Victorious is an American sitcom created by Dan Schneider that originally aired on Nickelodeon, debuting on March 27, 2010, and concluding on February 2, 2013 after four seasons. The series revolves around aspiring singer Tori Vega (portrayed by Victoria Justice), a teenager who attends a performing arts high school called Hollywood Arts High School, after taking her older sister Trina's (Daniella Monet) place in a showcase while getting into screwball situations on a daily basis. On her first day at Hollywood Arts, she meets Andre Harris (Leon Thomas III), Robbie Shapiro (Matt Bennett), Rex Powers (Robbie's puppet), Jade West (Elizabeth Gillies), Cat Valentine (Ariana Grande), and Beck Oliver (Avan Jogia).",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Виктория-победительница",
                 "memoir": "Виктория-победительница - американский ситком, созданный Дэном Шнайдером, который выходил на канале Nickelodeon с 27 марта 2010 года по 2 февраля 2013 года. Действие телесериала разворачивается вокруг начинающей молодой певицы Тори Вега (Виктория Джастис), поступившей в школу искусств «Hollywood Arts High School» в Лос-Анджелесе, после того, как ей пришлось подменить старшую сестру Трину (Даниэлла Моне) на выступлении. Каждый день она попадает в разные смешные истории. В свой первый день в школе, она знакомится с Андрэ Харрисом (Леон Томас III), Робби Шапиро (Мэтт Беннетт), Рексом Пауэрсом (кукла Робби), Джейд Вест (Элизабет Гиллис), Кэт Валентайн (Ариана Гранде) и Бэком Оливером (Эван Джогиа)."
             }
