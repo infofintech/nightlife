@@ -8,6 +8,15 @@
             "RU": { "title": "Эмма Стоун" }
         }
     },
+    "Victoria Justice": {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 7, "country": "US",
+        "birthday": "February 19, 1993",
+        "language": {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
     "Zermatt Matterhorn": {
         "country": "CH", "insignia": "Louvre",
         "maison": "https://www.zermatt.ch/en/matterhorn",
